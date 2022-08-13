@@ -1,0 +1,15 @@
+C:\Users\marku\Desktop\#MAIN\#VISUAL STUDIO FILES\#C SHARP W3SCHOOLS\bin\Debug\net6.0\#C SHARP W3SCHOOLS.exe
+C:\Users\marku\Desktop\#MAIN\#VISUAL STUDIO FILES\#C SHARP W3SCHOOLS\bin\Debug\net6.0\#C SHARP W3SCHOOLS.deps.json
+C:\Users\marku\Desktop\#MAIN\#VISUAL STUDIO FILES\#C SHARP W3SCHOOLS\bin\Debug\net6.0\#C SHARP W3SCHOOLS.runtimeconfig.json
+C:\Users\marku\Desktop\#MAIN\#VISUAL STUDIO FILES\#C SHARP W3SCHOOLS\bin\Debug\net6.0\#C SHARP W3SCHOOLS.dll
+C:\Users\marku\Desktop\#MAIN\#VISUAL STUDIO FILES\#C SHARP W3SCHOOLS\bin\Debug\net6.0\#C SHARP W3SCHOOLS.pdb
+C:\Users\marku\Desktop\#MAIN\#VISUAL STUDIO FILES\#C SHARP W3SCHOOLS\obj\Debug\net6.0\#C SHARP W3SCHOOLS.csproj.AssemblyReference.cache
+C:\Users\marku\Desktop\#MAIN\#VISUAL STUDIO FILES\#C SHARP W3SCHOOLS\obj\Debug\net6.0\#C SHARP W3SCHOOLS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Desktop\#MAIN\#VISUAL STUDIO FILES\#C SHARP W3SCHOOLS\obj\Debug\net6.0\#C SHARP W3SCHOOLS.AssemblyInfoInputs.cache
+C:\Users\marku\Desktop\#MAIN\#VISUAL STUDIO FILES\#C SHARP W3SCHOOLS\obj\Debug\net6.0\#C SHARP W3SCHOOLS.AssemblyInfo.cs
+C:\Users\marku\Desktop\#MAIN\#VISUAL STUDIO FILES\#C SHARP W3SCHOOLS\obj\Debug\net6.0\#C SHARP W3SCHOOLS.csproj.CoreCompileInputs.cache
+C:\Users\marku\Desktop\#MAIN\#VISUAL STUDIO FILES\#C SHARP W3SCHOOLS\obj\Debug\net6.0\#C SHARP W3SCHOOLS.dll
+C:\Users\marku\Desktop\#MAIN\#VISUAL STUDIO FILES\#C SHARP W3SCHOOLS\obj\Debug\net6.0\refint\#C SHARP W3SCHOOLS.dll
+C:\Users\marku\Desktop\#MAIN\#VISUAL STUDIO FILES\#C SHARP W3SCHOOLS\obj\Debug\net6.0\#C SHARP W3SCHOOLS.pdb
+C:\Users\marku\Desktop\#MAIN\#VISUAL STUDIO FILES\#C SHARP W3SCHOOLS\obj\Debug\net6.0\#C SHARP W3SCHOOLS.genruntimeconfig.cache
+C:\Users\marku\Desktop\#MAIN\#VISUAL STUDIO FILES\#C SHARP W3SCHOOLS\obj\Debug\net6.0\ref\#C SHARP W3SCHOOLS.dll
